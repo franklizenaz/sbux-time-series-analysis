@@ -1,0 +1,56 @@
+Fecha,Evento,Categoria,Efecto,Fuente,Impacto_Neto
+2021-03-16,Luckin reestructuración deuda,Competencia,negativo,https://investor.luckincoffee.com/news-releases/news-release-details/luckin-coffee-enters-restructuring-support-agreement-holders/,competencia_global
+2021-03-17,50th Anniversary Blend Starbucks,Fundamental,positivo,https://www.gcrmag.com/starbucks-celebrates-its-50th-anniversary-and-looks-at-the-year-ahead/,evento_marca
+2021-03-18,Expansión pickup Dunkin,Competencia,negativo,https://news.dunkindonuts.com/news/dunkin-joy-in-childhood-foundation-announces-another-1-million-in-funding-to-fight-hunger,competencia_qsr
+2021-03-19,Costa Express inteligente,Competencia,negativo,https://caternewsdigital.com/internacional/costa-coffee-adios-a-las-perdidas-y-nueva-linea-de-cafeteras/,competencia_qsr
+2021-03-20,McCafe integrado en app,Competencia,negativo,https://www.infofranquicias.com/fd-1348/franquicias/noticias/McDonalds.aspx,competencia_precio
+2021-04-28,Resultados Q2 FY21,Earnings,positivo,https://investor.starbucks.com/news/financial-releases/news-details/2021/Starbucks-Reports-Q2-Fiscal-2021-Results/default.aspx,earnings
+2021-06-25,Escasez insumos,Demand,negativo,https://www.businessinsider.com/starbucks-shortage-list-drinks-ingredients-missing-2021-6,shock_operativo
+2021-09-15,Aumento dividendo,Dividendos,positivo,https://www.nasdaq.com/articles/starbucks-sbux-rewards-shareholders-with-nearly-9-dividend-hike-2021-09-3,politica_accionista
+2021-10-29,Subida salarial partners,Costos,negativo,https://www.cnbc.com/2021/10/27/starbucks-to-raise-pay-for-us-baristas-at-least-twice-next-year.html,shock_costos
+2021-11-01,CocaCola BodyArmor distribucion,Competencia,negativo,https://www.coca-colacompany.com/news/coca-cola-to-acquire-full-ownership-of-bodyarmor,competencia_retail
+2022-01-20,Luckin relisting,Competencia,negativo,https://www.ft.com/content/36294e0f-217f-4447-9878-00a454d45543,competencia_global
+2022-03-16,Regreso Howard Schultz,Management,positivo,https://edition.cnn.com/2022/03/16/business/starbucks-ceo-howard-schultz,choque_estructural
+2022-03-18,Suspension buybacks,Financiero,negativo,https://www.forbes.com/sites/siladityaray/2022/04/04/starbucks-shares-slide-as-howard-schultz-suspends-share-buyback-program/,politica_capital
+2022-05-04,Caida ventas China,Earnings,negativo,https://www.cnbc.com/2022/05/03/starbucks-sbux-q2-2022-earnings.html,riesgo_pais
+2022-08-03,Bebidas frias impulsan ventas,Earnings,positivo,https://www.reuters.com/business/retail-consumer/starbucks-beats-sales-estimates-us-cold-coffee-demand-offsets-china-slump-2022-08-02/,estacionalidad_verano
+2022-08-09,Expansion Luckin China,Competencia,negativo,https://www.reuters.com/business/retail-consumer/chinas-luckin-plans-store-expansion-remains-committed-us-market-2022-08-09/,competencia_global
+2022-09-13,Investor Day reinvention,Strategic,positivo,https://stories.starbucks.com/press/2022/starbucks-unveils-reinvention-plan-at-investor-day/,plan_estrategico
+2022-09-14,Upgrades WallStreet,Market,positivo,https://finance.yahoo.com/news/starbucks-bullish-investor-day-targets-145610815.html,revision_analistas
+2022-10-24,Digital McDonalds,Competencia,negativo,https://corporate.mcdonalds.com/corpmcd/investors.html,competencia_qsr
+2022-11-04,Ingresos record,Earnings,positivo,https://www.reuters.com/business/retail-consumer/starbucks-beats-quarterly-sales-estimate-pricey-drinks-robust-demand-2022-11-03/,earnings
+2023-02-03,Debilidad China,Earnings,negativo,https://www.cnbc.com/2023/02/02/starbucks-sbux-q1-2023-earnings.html,riesgo_pais
+2023-05-03,Primer trimestre Narasimhan,Earnings,positivo,https://investor.starbucks.com/news/financial-releases/news-details/2023/Starbucks-Reports-Q2-Fiscal-2023-Results/default.aspx,earnings
+2023-06-23,Huelga sindical,Reputacional,negativo,https://edition.cnn.com/2023/06/23/business/starbucks-union-pride-strike,shock_laboral
+2023-07-21,Luckin 10000 tiendas,Competencia,negativo,https://investor.luckincoffee.com/news-releases/news-release-details/luckin-coffee-reaches-10000th-store-milestone/,competencia_global
+2023-07-21,Nuevo jefe supply chain,Management,neutro,https://www.restaurantdive.com/news/starbucks-hires-taco-bell-vets-to-replace-departing-execs/738481/,reorganizacion
+2023-08-02,Ventas globales crecen,Earnings,positivo,https://investor.starbucks.com/news/financial-releases/news-details/2023/Starbucks-Reports-Q3-Fiscal-2023-Results/default.aspx,earnings
+2023-08-02,Siren System automatizacion,Operativo,positivo,https://www.reuters.com/business/retail-consumer/us-fast-food-chains-add-turn-automation-boost-speed-2023-08-02/,innovacion_operativa
+2023-11-01,Holiday menu,Estacional,positivo,https://stories.starbucks.com/press/2023/starbucks-holiday-menu-is-back/,estacionalidad_navidad
+2023-11-02,Resultados Q4 FY23,Earnings,positivo,https://www.businesswire.com/news/home/20231102558696/en/Starbucks-Reports-Q4-and-Full-Year-Fiscal-2023-Results,earnings
+2023-11-03,Mejora rating crediticio,Financiero,positivo,https://www.moodys.com/credit-ratings/Starbucks-Corporation-reports-800010912,riesgo_credito
+2023-12-04,CosMcs McDonalds,Competencia,negativo,https://www.reuters.com/business/retail-consumer/mcdonalds-tests-cosmcs-stores-burger-chain-boosts-beverages-focus-2023-12-07/,competencia_qsr
+2024-01-30,Q1 FY24 decepcion,Earnings,negativo,https://about.starbucks.com/press/2024/starbucks-reports-q1-fiscal-2024-results/,earnings
+2024-01-31,Boicots internacionales,Reputacional,negativo,https://www.reuters.com/business/retail-consumer/starbucks-misses-quarterly-sales-estimates-2024-01-30/,shock_reputacional
+2024-03-15,Cierre Odyssey NFT,Strategic,positivo,https://thespoon.tech/not-surprisingly-starbucks-is-shutting-down-its-nft-program/,restructuracion
+2024-05-01,Colapso Q2 FY24,Earnings,negativo,https://www.reuters.com/business/retail-consumer/starbucks-shares-tumble-china-us-demand-slowdown-clouds-outlook-2024-05-01/,shock_extremo
+2024-06-21,Menu value defensivo,Competencia,negativo,https://www.cnn.com/2024/06/21/business/starbucks-value-meal/,guerra_precios
+2024-07-19,Entrada Elliott,Market,positivo,https://peltzinternational.com/activist-elliott-building-stake-in-starbucks/,activismo
+2024-08-13,Nuevo CEO Brian Niccol,Management,positivo,https://about.starbucks.com/press/2024/starbucks-names-brian-niccol-as-chairman-and-chief-executive-officer/,choque_estructural
+2024-08-14,Salto bursatil 24%,Market,positivo,https://corpgov.law.harvard.edu/2024/10/01/activism-vulnerability-report-3/,shock_extremo
+2024-10-23,Suspende guidance,Strategic,negativo,https://www.nasdaq.com/articles/starbucks-slips-dismal-preliminary-results-and-suspended-guidance,restructuracion
+2024-11-03,Luckin expansion USA,Competencia,negativo,https://larepublica.pe/estados-unidos/2024/11/03/luckin-coffee-la-cafeteria-que-derroto-a-starbucks-en-china-busca-conquistar-estados-unidos-lrtmusv-40665,competencia_global
+2024-12-20,Promociones navidad competencia,Estacional,negativo,Datos industria QSR,estacionalidad_navidad
+2025-01-29,Primer earnings Niccol,Earnings,positivo,https://www.reuters.com/business/retail-consumer/starbucks-posts-smaller-than-expected-comparable-sales-decline-turnaround-takes-2025-01-28/,earnings
+2025-04-03,Reunion accionistas,Cultura,positivo,https://investor.starbucks.com/events-and-presentations/default.aspx,confianza_institucional
+2025-04-07,Subsidios Luckin China,Competencia,negativo,Analisis macro China,guerra_precios
+2025-04-09,Innovaciones RTD competidores,Competencia,negativo,Reportes CPG,competencia_retail
+2025-04-30,Resultados Q2 FY25,Earnings,negativo,https://www.reuters.com/business/starbucks-posts-bigger-than-expected-drop-global-sales-2025-04-29/,earnings
+2025-05-24,Cierre CosMcs,Competencia,positivo,https://people.com/mcdonalds-shutting-down-cosmcs-chain-after-less-than-2-years-11741448,competencia_qsr
+2025-06-27,Value deals McCafe,Competencia,negativo,https://corporate.mcdonalds.com/corpmcd/investors.html,guerra_precios
+2025-07-02,Luckin entra Nueva York,Competencia,negativo,https://larepublica.pe/mundo/2025/07/02/la-cadena-china-de-cafe-que-supero-a-starbucks-y-ahora-conquista-estados-unidos-con-precios-ultra-bajos-166022,competencia_global
+2025-07-29,Volatilidad Arabica,Macro,negativo,https://www.theice.com/products/15/Coffee-C-Futures,shock_costos
+2025-07-30,Resultados Q3 FY25,Earnings,positivo,https://investor.starbucks.com/,earnings
+2026-01-14,CocaCola no vende Costa,Competencia,negativo,https://www.retaildetail.es/news/alimentacion/coca-cola-renuncia-a-la-venta-de-costa-coffee/,competencia_global
+2026-01-21,Guerra vending machines,Competencia,negativo,Proyecciones QSR,competencia_b2b
+2026-01-28,Q1 FY26 turnaround,Earnings,positivo,https://www.reuters.com/business/starbucks-seeks-pre-pandemic-profit-margins-ceo-niccols-first-investor-day-2026-01-29/,earnings
